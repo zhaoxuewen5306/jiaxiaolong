@@ -1,0 +1,106 @@
+body ul ol li p h1 h2 h3 h4 h5 h6 font table div img 
+body{font-family: "微软雅黑";list-style: none;}
+a{text-decoration: none;}
+a:hover{color:red;}
+.d{margin:0 auto;}
+.nav{width: 1100px;
+      height: 100px;
+   
+      background-color: white;
+         }
+.nav-font ul li{display: inline-block;
+                font-size: 17;
+                font-weight: bolder;
+                position: relative;
+                left: 240px;
+                top: 40px;
+                padding-left: 70px;
+}              
+.logo{background:url(../images/logo.jpg);
+      width: 236px;
+      height: 100px;
+      margin-top: -35px;}
+      
+.main-img{width: 1100px;
+      height: 364px;
+      background:url(../images/play.jpg);
+      position: relative;
+      top: 40px;} 
+      
+.map{width: 1100px;
+      height: 288px;
+      background:url(../images/map.jpg);
+      
+      } 
+.main-objective{width: 1100px;
+      height: 470px;
+      background:url(../images/mudi.png);
+} 
+.main-swim{width:244px ;
+             height: 255px;
+             background:url(../images/swim.gif);
+             margin-left: 685px;
+             margin-top: -341px;
+             }      
+.main-objectiv{width: 1100px;
+      height: 470px;
+      background:url(../images/mudi1.png);
+       margin-top: -383px;} 
+      
+.main-fei{width: 1100px;
+      height: 463px;
+      background:url(../images/fei.jpg);
+      
+      }    
+ .main-kailiu{width: 1100px;
+      height: 312px;
+      background:url(../images/kailiu.jpg);
+     margin-top: 40px;
+     } 
+ 
+ 
+      
+.footer{width: 1100px;
+        height: 280px;
+        background-color: #30a3e3;}
+.footer-column ul li{font-size: 25px;
+                display: inline-block;
+                list-style: none;
+                 position: relative;
+                 left:-40px;
+                 top:20px;
+                 padding-left:180px; 
+               
+}
+.footer-content{font-size: 20px;
+                color: white;
+                margin-left:100px ;
+                margin-top: 30px;
+                }
+.footer-new{font-size: 20px;
+                color: white;
+                margin-left:406px ;
+                margin-top: -92px;}
+.footer-news{font-size: 20px;
+                color: white;
+                margin-left:706px ;
+                margin-top: -182px;}
+                
+.footer-mag{margin-left:706px;
+      margin-top:10px ;}
+.footer-btn{margin-left:706px;
+            padding-top: 20px;}
+.copyright{width: 1100px;
+           height: 50px;
+           background-color: #323a45;
+}
+.copyright-font{font-size: 12px;
+             color: white;
+             padding-top: 20px;
+             padding-left: 150px;}
+.img{
+             position:fixed;
+             top:450px;
+             left:1220px;}
+.h{}
+ 
